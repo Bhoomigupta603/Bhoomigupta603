@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bhoomi Gupta</h1>
-<h3 align="center">Aspiring Data Analyst | MCA (AI/ML) | Passionate about Data & AI</h3>
+<h3 align="center">Data Science & AI Enthusiast| MCA (AI/ML) | Passionate about Data & AI</h3>
 
 <p align="center">
   <a href="https://github.com/Bhoomigupta603"><img src="https://img.shields.io/github/followers/Bhoomigupta603?label=Followers&style=social" alt="GitHub Followers"></a>
@@ -49,7 +49,7 @@
 🔹 **Description:** An AI-based tool for summarizing long texts into concise summaries.  
 🔹 **Features:**  
    - NLP-powered summarization for efficient reading.  
-   - Extractive and abstractive summarization options.  
+   - Extractive summarization options.  
    - Supports text input from documents and web pages.  
 🔗 **Repo:** [GitHub Link](https://github.com/Bhoomigupta603/Text-Summarizer)
 
@@ -95,7 +95,7 @@
 
 ## 📫 **Connect with Me**
 🌐 **LinkedIn:** [Bhoomi Gupta](https://www.linkedin.com/in/data-bhoomigupta/)  
-📧 **Email:** bhoomi@example.com (Replace with your actual email)  
+📧 **Email:** guptabhoomi577@gmail.com 
 
 ---
 
