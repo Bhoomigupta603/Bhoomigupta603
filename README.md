@@ -85,18 +85,10 @@
 
 ---
 
-## 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhoomigupta603&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomigupta603&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
----
-
 ## 📫 **Connect with Me**
 🌐 **LinkedIn:** [Bhoomi Gupta](https://www.linkedin.com/in/data-bhoomigupta/)  
 📧 **Email:** guptabhoomi577@gmail.com 
 
 ---
 
-🔹 **Let's connect and build something amazing! **
+🔹 **Let's connect and build something amazing!**
