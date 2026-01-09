@@ -20,7 +20,7 @@
 ---
 
 ##  **Resume**
- **Download My Resume:** [Click Here](https://drive.google.com/drive/u/0/my-drive)
+ **Download My Resume:** [Click Here](https://drive.google.com/file/d/1032YJtZ81TIyThf5PrqRb0Pz_dKsrzWQ/view?usp=sharing)
 
 ---
 
