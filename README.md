@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/Bhoomigupta603"><img src="https://img.shields.io/github/followers/Bhoomigupta603?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/data-bhoomigupta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://drive.google.com/your_resume_link_here"><img src="https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=googledrive" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1032YJtZ81TIyThf5PrqRb0Pz_dKsrzWQ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=googledrive" alt="Resume"></a>
 </p>
 
 ---
